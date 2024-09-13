@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Style.qml</file>
+        <file>ShadowRectangle.qml</file>
+        <file>Merriweather/Merriweather-Black.ttf</file>
+        <file>Merriweather/Merriweather-BlackItalic.ttf</file>
+        <file>Merriweather/Merriweather-Bold.ttf</file>
+        <file>Merriweather/Merriweather-BoldItalic.ttf</file>
+        <file>Merriweather/Merriweather-Italic.ttf</file>
+        <file>Merriweather/Merriweather-Light.ttf</file>
+        <file>Merriweather/Merriweather-LightItalic.ttf</file>
+        <file>Merriweather/Merriweather-Regular.ttf</file>
+        <file>Merriweather/OFL.txt</file>
+        <file>icons/person_1.png</file>
+        <file>icons/ic_message.svg</file>
+        <file>icons/person_2.png</file>
+        <file>icons/person_3.png</file>
+        <file>icons/person_4.png</file>
+    </qresource>
+</RCC>
